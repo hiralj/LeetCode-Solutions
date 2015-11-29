@@ -1,2 +1,2 @@
 # LeetCode-Solutions
-Solutions to different coding questions for practice!
+Solutions to coding questions from LeetCode
